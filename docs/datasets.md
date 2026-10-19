@@ -16,5 +16,5 @@ Format: GeoJSON
 
 
 
-Purpose: Used as the primary study area boundary for climate hazard visualization, risk mapping and dashboard development.
+Purpose: Used to assess accessibility and support visualization of transportation networks in climate hazard monitoring and decision-support applications.
 
