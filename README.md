@@ -1,4 +1,4 @@
-# **Climate Hazard Monitoring Dashboard for Early Warning Decision Support**
+# **Climate Hazard Monitoring Dashboard**  
 
 ### **Overview**
 
